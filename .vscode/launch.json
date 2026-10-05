@@ -1,12 +1,24 @@
 {
   "version": "0.2.0",
   "configurations": [
+    {
+        "name": "(lldb) Launch",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/madalina_nastase/min_two_numbers",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "lldb"
+    },
 
     {
       "name": "Run minimum program",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/min_two_numbers",
+      "program": "${workspaceFolder}/madalina_nastase/min_two_numbers",
       "cwd": "${workspaceFolder}",
       "externalConsole": false,
       "MIMode": "lldb",

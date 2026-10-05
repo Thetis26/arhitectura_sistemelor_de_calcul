@@ -9,9 +9,13 @@ int main() {
     cout << "Enter two numbers: ";
     cin >> firstNumber >> secondNumber;
 
-    cout << "Minimum: "
-              << (firstNumber < secondNumber ? firstNumber : secondNumber)
-              << '\n';
+    if (firstNumber == secondNumber) {
+        cout << "The numbers are equal.\n";
+    } else if (firstNumber < secondNumber) {
+        cout << "The first number is smaller: " << firstNumber << ".\n";
+    } else {
+        cout << "The second number is smaller: " << secondNumber << ".\n";
+    }
 
     return 0;
 }
