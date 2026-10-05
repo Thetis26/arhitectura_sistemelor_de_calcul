@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+
+    {
+      "name": "Run minimum program",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/min_two_numbers",
+      "cwd": "${workspaceFolder}",
+      "externalConsole": false,
+      "MIMode": "lldb",
+      "preLaunchTask": "Build C++ app"
+    }
+  ]
+}

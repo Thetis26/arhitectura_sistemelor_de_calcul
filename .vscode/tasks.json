@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build C++ app",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-std=c++17",
+        "${workspaceFolder}/madalina_nastase/min_two_numbers.cpp",
+        "-o",
+        "${workspaceFolder}/min_two_numbers"
+      ],
+      "group": "build",
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}
