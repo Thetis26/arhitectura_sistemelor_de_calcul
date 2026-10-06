@@ -20,3 +20,15 @@
 **Free code camp:** https://www.youtube.com/watch?v=KJgsSFOSQv0&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m
 
 **Compiler C++:** https://www.onlinegdb.com/online_c++_compiler
+
+## Instalare Git:
+**Git instalare:** https://github.com/git-guides/install-git
+
+**Curs extins:** https://git-scm.com/book/en/v2
+
+**Curs intereactiv:** https://learngitbranching.js.org/
+
+**Windows:** https://www.youtube.com/watch?v=ibz-tSrnURQ
+
+**Mac:** https://www.youtube.com/watch?v=9GZmaxaQV0c
+
