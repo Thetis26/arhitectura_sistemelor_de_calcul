@@ -1,8 +1,5 @@
 # Ghid rapid ChoiceCrafter pentru studenți
 
-ChoiceCrafter este aplicația în care parcurgi cursul prin activități scurte:
-citești, rezolvi exerciții și vezi cum avansezi tu și grupa ta.
-
 ## 1. Descarcă aplicația
 **Apple store:** https://apps.apple.com/sa/app/choice-crafter/id6759190849
 

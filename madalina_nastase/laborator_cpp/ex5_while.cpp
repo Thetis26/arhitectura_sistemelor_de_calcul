@@ -5,12 +5,12 @@ using namespace std;
 
 int main() {
     srand(time(0));
-    int secret = rand() % 100 + 1;
+    int secret = rand() % 100 + 1;//5
     int guess = 0;
 
     while (guess != secret) {
         cout << "Your guess: ";
-        cin >> guess;
+        cin >> guess;//5
         if (guess < secret) {
             cout << "Higher!" << endl;
         } else if (guess > secret) {
